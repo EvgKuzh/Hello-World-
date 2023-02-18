@@ -4,3 +4,5 @@ Console.Write ("Привет, ");
 Console.Write (username);
 
 Console.Clear();
+
+ок
