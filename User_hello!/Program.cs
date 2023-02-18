@@ -6,3 +6,4 @@ git
 Console.Clear();
 
 ок
+git
